@@ -1,0 +1,14 @@
+<methods>
+	<method>
+		<hybrid>serverStatus</hybrid>
+		<original>getServerStatus</original>
+</method>
+<method>
+		<hybrid>DBStatus</hybrid>
+		<original>getDBStatus</original>
+</method>
+<method>
+		<hybrid>MemoryStatus</hybrid>
+		<original>getMem</original>
+	</method>
+</methods>
